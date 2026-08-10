@@ -1,0 +1,5 @@
+[submodule "strace"]
+	path = strace
+	url = git@github.com:PtilopsisL/strace.git
+	branch = master
+	ignore = untracked
